@@ -75,13 +75,13 @@ src
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Sangramjit150/Rest_Apis_Simplified.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd your-repository
+cd Rest_Apis_Simplified
 ```
 
 ### Run the Application
